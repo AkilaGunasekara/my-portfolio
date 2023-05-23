@@ -11,6 +11,7 @@ import { Route, Routes } from 'react-router-dom';
 function App() {
   return (
     <>
+    <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
      <Routes basename="/my-portfolio">
       <Route path='/' element={<Home/>}/>
       <Route path='/project' element={<Project/>}/>
