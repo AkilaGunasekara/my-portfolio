@@ -37,7 +37,7 @@ const Footer = () => {
             <div className="right">
                 <h4>About Me</h4>
                 <p>
-                A self-driven person looking for an internship in the IT industry with strong interpersonal and communication skills. My professional goal is to get a demanding job with a growth-oriented company where I can advance my education and experience to benefit the organization I work for.
+                A self-driven person working as an intern Software Enginear(QrioMatrix) in the IT industry with strong interpersonal and communication skills.
                 </p>
                 <div className="social">
                 

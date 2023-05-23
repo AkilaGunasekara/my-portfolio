@@ -16,7 +16,7 @@ function myimg() {
         <h1>Software Enginear</h1>
         <div>
           <Link to="/project" className="button">Project</Link>
-          <Link to="/contact" className="btn-light">Contact</Link>
+          <Link to="/contact" className="button">Contact</Link>
 
         </div>
 
@@ -24,6 +24,6 @@ function myimg() {
 
     </div>
   );
-}
+} 
 
 export default myimg

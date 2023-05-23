@@ -46,11 +46,15 @@
     margin: 1rem 0 0.2rem;
 }
 .button .btn-light{
+    
     padding: 5px;
     margin-right: 4px;
     justify-content: space-between;
 }
+button{
+    border-radius: 1px;
 
+}
 @media screen and (max-width:640px) {
     .my .content h1{
         font-size: 3rem;
